@@ -1,4 +1,4 @@
-group 'www.twistedfate.com.tencent_gdt_plugin'
+group 'www.twistedfate.com.gdt_action_plugin'
 version '1.0'
 
 buildscript {

@@ -1,21 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - tencent_gdt_plugin (0.0.1):
+  - gdt_action_plugin (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - tencent_gdt_plugin (from `.symlinks/plugins/tencent_gdt_plugin/ios`)
+  - gdt_action_plugin (from `.symlinks/plugins/gdt_action_plugin/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  tencent_gdt_plugin:
-    :path: ".symlinks/plugins/tencent_gdt_plugin/ios"
+  gdt_action_plugin:
+    :path: ".symlinks/plugins/gdt_action_plugin/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  tencent_gdt_plugin: f43b02f1b68f925ea275626f457d4b6a356b7f5e
+  gdt_action_plugin: 89d973993265d2a5be4a1e0a80dc30c07026f465
 
 PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
 

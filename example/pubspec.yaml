@@ -1,5 +1,5 @@
-name: tencent_gdt_plugin_example
-description: Demonstrates how to use the tencent_gdt_plugin plugin.
+name: gdt_action_plugin_example
+description: Demonstrates how to use the gdt_action_plugin plugin.
 publish_to: 'none'
 
 environment:
@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  tencent_gdt_plugin:
+  gdt_action_plugin:
     path: ../
 
 # For information on the generic Dart part of this file, see the

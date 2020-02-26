@@ -1,6 +1,6 @@
-# tencent_gdt_plugin_example
+# gdt_action_plugin_example
 
-Demonstrates how to use the tencent_gdt_plugin plugin.
+Demonstrates how to use the gdt_action_plugin plugin.
 
 ## Getting Started
 

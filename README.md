@@ -1,4 +1,4 @@
-# tencent_gdt_plugin
+# gdt_action_plugin
 
 A new Flutter plugin.
 
